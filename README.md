@@ -14,12 +14,6 @@ The "Pizza" project is designed to revolutionize the pizza delivery system by im
    - The core of the project is an optimization algorithm that balances delivery time and distance. 
    - Techniques such as Dijkstra's algorithm, A* search, or even machine learning models could be employed to find the optimal route.
 
-4. **Programming Languages and Technologies**:
-   - **Python**: Used for implementing the core algorithms and integrating various services.
-   - **JavaScript**: For the frontend interface, providing real-time updates and a seamless user experience.
-   - **Google Maps API**: For geolocation and route optimization.
-   - **Flask/Django**: To create a robust backend that handles requests and processes data.
-
 ### How It Works
 1. **Order Placement**:
    - A customer places an order through the app or website.
@@ -44,7 +38,3 @@ The "Pizza" project is designed to revolutionize the pizza delivery system by im
 
 ### Conclusion
 The "Pizza" project leverages advanced algorithms and modern programming languages to create an efficient and reliable pizza delivery system. By optimizing delivery routes and accurately calculating time and distance, it ensures customers receive their pizzas promptly while minimizing operational costs.
-
----
-
-Would you like to add or modify any details for your project description?
